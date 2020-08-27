@@ -1,4 +1,4 @@
-# ReactJS File Input
+# ReactJS Carousel
 Carousel using ReactJS.
 
 ## Setup
